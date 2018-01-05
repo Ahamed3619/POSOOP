@@ -1,0 +1,18 @@
+D:\POSoop\POSoop\bin\Debug\POSoop.exe.config
+D:\POSoop\POSoop\bin\Debug\POSoop.exe
+D:\POSoop\POSoop\bin\Debug\POSoop.pdb
+D:\POSoop\POSoop\obj\Debug\POSoop.csprojResolveAssemblyReference.cache
+D:\POSoop\POSoop\obj\Debug\POSoop.exe
+D:\POSoop\POSoop\obj\Debug\POSoop.pdb
+C:\Users\Web App Develop .Net\Desktop\POSoop\POSoop\bin\Debug\POSoop.exe.config
+C:\Users\Web App Develop .Net\Desktop\POSoop\POSoop\obj\Debug\POSoop.exe
+C:\Users\Web App Develop .Net\Desktop\POSoop\POSoop\obj\Debug\POSoop.pdb
+C:\Users\Web App Develop .Net\Desktop\POSoop\POSoop\obj\Debug\POSoop.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\POSoop\POSoop\bin\Debug\POSoop.exe
+C:\Users\Web App Develop .Net\Desktop\POSoop\POSoop\bin\Debug\POSoop.pdb
+C:\Users\Tanver\Desktop\POSoop\POSoop\bin\Debug\POSoop.exe.config
+C:\Users\Tanver\Desktop\POSoop\POSoop\bin\Debug\POSoop.exe
+C:\Users\Tanver\Desktop\POSoop\POSoop\bin\Debug\POSoop.pdb
+C:\Users\Tanver\Desktop\POSoop\POSoop\obj\Debug\POSoop.csprojResolveAssemblyReference.cache
+C:\Users\Tanver\Desktop\POSoop\POSoop\obj\Debug\POSoop.exe
+C:\Users\Tanver\Desktop\POSoop\POSoop\obj\Debug\POSoop.pdb
